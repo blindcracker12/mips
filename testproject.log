@@ -1,0 +1,9 @@
+Mips Assembler Rev 3.0
+C:\Users\ravi\Documents\MIPSym\Assembler.exe
+C:\Users\ravi\Documents\MIPSym\MIPsym files\testproject.asm
+Warning, duplicate label:grid on line 24.
+line 54 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 70 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 74 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 78 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 82 undefined opcode or wrong number or type of operands at character 0 in field 2
